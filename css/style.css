@@ -1,0 +1,27 @@
+body{
+    background-color:#258ad8;
+    background-image: url(https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a4d7ea1-7a6e-4fd6-b9e5-7fd67966b4b0_3000x2000.jpeg);
+    background-blend-mode: hard-light;
+    background-repeat:round;
+    background-size: 5%;
+}
+
+h1, h2, h3{
+    color: #ccff00;
+}
+
+p:hover, li:hover, ol:hover{
+    opacity: 0%;
+}
+
+img:hover{
+    transform: scale(10000%);
+}
+
+h1{
+    color: #FAF9F4
+}
+
+#ingredients {
+    font-family: 'Courier New', Courier, monospace;
+}
